@@ -7,10 +7,10 @@ app.use(express.unlencoded())
 
 app.set('view engine', 'ejs')
 
-app.listen(port, (err) =>{
-    if (err){
+app.listen(port, (err) => {
+    if (err) {
         console.log('server not started')
-    }else{
+    } else {
         console.log(`server start on port ${port}`);
     }
 })

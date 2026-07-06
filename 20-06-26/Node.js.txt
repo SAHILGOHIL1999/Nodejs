@@ -1,0 +1,18 @@
+* Node.js
+
+- npm i express nodemon ejs
+
+- confing  -> type ="module", 
+              "scripts": {
+             "start": "nodemon server.js"
+            }  
+ 
+- fileurltopath (google search)
+
+- git ignore file generator (google search and ignore file copy and generate code and code copy vs in ignore file)
+
+-  dotenv - npm i dotenv
+
+-  mongoose - npm i mongoose
+
+- express-validator - npm i express-validator
